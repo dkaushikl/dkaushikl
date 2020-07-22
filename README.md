@@ -1,11 +1,11 @@
 ### Hi there, I'm [Kaushik!](https://dkaushikl.github.io) 👋
 
 <a target="_blank" href="https://www.linkedin.com/in/dkaushikl/">
-  <img align="left" alt="Kaushik Dhameliya | LinkedIn" width="21px" src="https://raw.githubusercontent.com/dkaushikl/dkaushikl/master/assets/linkedin.svg" />
+  <img align="left" alt="Kaushik Dhameliya | LinkedIn" width="21px" src="https://img.shields.io/badge/-dkaushikl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dkaushikl/" />
 </a>
 
 <a target="_blank" href="https://twitter.com/dkaushikl">
-  <img align="left" alt="Kaushik Dhameliya | Twitter" width="21px" src="https://raw.githubusercontent.com/dkaushikl/dkaushikl/master/assets/twitter.svg" />
+  <img align="left" alt="Kaushik Dhameliya | Twitter" width="21px" src="https://img.shields.io/badge/-dkaushikl-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/dkaushikl/" />
 </a>
 
 <br />
