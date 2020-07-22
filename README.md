@@ -1,14 +1,11 @@
 ### Hi there, I'm [Kaushik!](https://dkaushikl.github.io) 👋
 
-<a target="_blank" href="https://www.linkedin.com/in/dkaushikl/">
-  <img align="left" alt="Kaushik Dhameliya | LinkedIn" src="https://img.shields.io/badge/-dkaushikl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dkaushikl/" />
-</a>
 
-<a target="_blank" href="https://twitter.com/dkaushikl">
-  <img align="left" alt="Kaushik Dhameliya | Twitter" src="https://img.shields.io/badge/-dkaushikl-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/dkaushikl/" />
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-dkaushikl-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dkaushikl/)](https://www.linkedin.com/in/dkaushikl/)
+[![Youtube Badge](https://img.shields.io/badge/-kaushikdhameliyadkaushikl-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/kaushikdhameliyadkaushikl)](https://www.youtube.com/c/kaushikdhameliyadkaushikl)
+[![Gmail Badge](https://img.shields.io/badge/-dhameliyakaushik13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dhameliyakaushik13@gmail.com)](mailto:dhameliyakaushik13@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-dkaushikl-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/dkaushikl/)](https://www.twitter.com/dkaushikl/)
 
-<br />
 <br />
 
 *Experienced Software Engineer with a demonstrated history of working in the information technology and services industry.
