@@ -11,14 +11,6 @@ Skilled in React.js, Angular, Nodejs, Ionic, CSS, Bootstrap, Html, jQuery,.NET F
 
 <hr />
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dkaushikl&theme=radical&hide_langs_below=1">
-  <img width="275px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkaushikl&theme=radical&hide_langs_below=1" alt="Kaushik's github stats" />
-</a>
-
-<a href="https://github-readme-stats.vercel.app/api?username=dkaushikl&show_icons=true&theme=radical&line_height=27">
-  <img width="425px" src="https://github-readme-stats.vercel.app/api?username=dkaushikl&show_icons=true&theme=radical&line_height=27" alt="Kaushik's github stats" />
-</a>
-
 <br/>
 <br/>
 <em>Cheers</em>,<br/>
