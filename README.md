@@ -9,9 +9,6 @@
 *Experienced Software Engineer with a demonstrated history of working in the information technology and services industry.
 Skilled in React.js, Angular, Nodejs, Ionic, CSS, Bootstrap, Html, jQuery,.NET Framework.*
 
-<hr />
-
-<br/>
 <br/>
 <em>Cheers</em>,<br/>
 <em>Kaushik Dhameliya</em>
